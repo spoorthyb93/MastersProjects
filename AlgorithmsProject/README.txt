@@ -1,10 +1,11 @@
 
 #Group D - Advance Algorithms Term Project on Empirical study on Network Flow
 
-#Group Members: Misba Momin
-                Spoorthy Balasubrahmanya
+
+#Group Members: Spoorthy Balasubrahmanya
 		Bharathi Manoharan
 		Rituja Dance
+		Misba Momin
 
 
 
