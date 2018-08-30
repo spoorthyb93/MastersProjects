@@ -1,7 +1,0 @@
-,Method_Names,Prediction_Accuracy_TableFunction,Prediction_Accuracy_MeanFunction
-1,Lowcorrelation10KNN,61.92982456,61.92982456
-2,Highcorrelation10KNN,65.26315789,65.26315789
-3,Lowcorrelation10SVM,65.61403509,65.61403509
-4,Highcorrelation10SVM,64.03508772,64.03508772
-5,Correlation0.001SVM,67.01754386,67.01754386
-6,randonForest,66.14035088,66.14035088
